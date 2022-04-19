@@ -38,6 +38,7 @@ bourbon/
 
 # ignore these plugins
 wp-content/plugins/hello.php
+wp-content/mu-plugins/*
 
 # ignore specific themes
 wp-content/themes/twenty*/
